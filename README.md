@@ -9,7 +9,6 @@ This repository contains only release artifacts (DMG, EXE) — no source code.
 Latest releases: https://github.com/PavTer/BatchRender-releases/releases/latest
 
 - **macOS (Apple Silicon)**: `BatchRender-mac-arm64.dmg`
-- **macOS (Intel)**: `BatchRender-mac-x64.dmg`
 - **Windows 10/11**: `BatchRender-win.exe`
 
 ## Website
